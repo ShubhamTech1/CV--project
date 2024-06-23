@@ -1,6 +1,6 @@
 
 '''
-
+build CNN from scratch
 TASK :- IMAGE CLASSIFICATION, MODEL = CNN(base model), DATASET = CIFAR10.
  
 '''
