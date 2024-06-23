@@ -85,35 +85,7 @@ resnet_model.fit(x_train, y_train, epochs=100, validation_data=(x_test, y_test),
 '''
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 resnet_model.evaluate(x_test,y_test)              # testing accuracy
-
-
-
-
-
-
-
-
-
-
-
-
 
 #  ACTUAL
 
